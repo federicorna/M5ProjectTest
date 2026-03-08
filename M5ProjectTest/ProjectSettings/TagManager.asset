@@ -11,12 +11,12 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Door
+  - Button
+  - Player
+  - Enemy
+  - Ground
+  - Obstacle
   - 
   - 
   - 
